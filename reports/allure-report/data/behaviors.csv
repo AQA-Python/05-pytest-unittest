@@ -1,0 +1,8 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","","0","User Manager","3","0","Count users","0"
+"0","","0","User Manager","3","0","Get all users","0"
+"0","","0","User Manager","22","0","Add user","0"
+"0","","0","User Manager","4","0","Remove user","0"
+"0","","0","User","6","0","is_adult","0"
+"0","","0","User Manager","4","0","Get user","0"
+"0","","0","User","2","0","to_dict","0"
